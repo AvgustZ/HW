@@ -521,6 +521,7 @@ let light = prompt('What light color?');
 
 if( light = 'green'){
     console.log('Иди');
+
    }else if(yellow){
     console.log ('подожди');
    }else if(sRed){
